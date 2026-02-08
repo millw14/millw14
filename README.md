@@ -2,14 +2,14 @@
 
 ![Banner](./banner.png)
 
-### Hey there 👋
+### HIIIIIIIIIIIII
 
-I'm a developer who loves building cool things.
+I'm a simp for gojo, and started c++ cause of GTA san andreas
 
 ---
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/millw14)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/millw14)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/millw11488)
 
 </div>
 
@@ -18,7 +18,7 @@ I'm a developer who loves building cool things.
 #### 🔧 Tech Stack
 
 ```text
-Languages    →  JavaScript, TypeScript, Python, Solidity
+Languages    →  rust, c++, Python, Solidity
 Frontend     →  React, Next.js, TailwindCSS
 Backend      →  Node.js, Express, MongoDB
 Blockchain   →  Solana, Ethereum, Web3
